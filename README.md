@@ -1,4 +1,4 @@
 ```
-Test cases are in Leanr Form How-to-USE PDF inside folder
+Test cases are in How-to-USE PDF inside gst-flask-app
 ```
 
