@@ -1,13 +1,13 @@
 
-Red Carpet Up 
-GST Tax System Assignment
+#Red Carpet Up 
+#GST Tax System Assignment
 
 
 		Applicant Name: Atriya Patel
 		Language: Python (3.9) Flask Framework
 		Contant: 8141197449, atriya.patel@gmail.com
 
-"""
+
 
 Proposed Design
 
@@ -20,7 +20,7 @@ Proposed Design
 7.	Simple UI of Flask is provided for Tests and admin.
 
 Note: Primary focus is Security and System Design. UI can be easily modelled according to exceptions for error handling (Like incorrect date format, blank password etc.) It can throw error but backend is secured to not let it Pass.
-"""
+
 
 Test Cases
 
@@ -60,21 +60,23 @@ C.	On clicking Pay, If due date is not passed then only it will be deleted and s
 D.	If due date is already passed then we will see a message saying cannot Pay tax now.
 
 
-Demo Accounts (Already Present in DB)
 
-1.	Tax Payer Account  
+
+#Demo Accounts (Already Present in DB)
+
+1.Tax Payer Account  
 
 	Email:  john@gmail.com
 	Pass:  123
 
-2.	Accountant Account 
+2.Accountant Account 
 
 	Email: mat@gmail.com
 	Pass:  1230
 
-3.	Admin URL Auth Details 
-		Username:  root
-		Pass:  	 root 
+3.Admin URL Auth Details 
+	Username:  root
+	Pass:  	 root 
 
 
 
