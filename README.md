@@ -7,7 +7,7 @@ GST Tax System Assignment
 		Language: Python (3.9) Flask Framework
 		Contant: 8141197449, atriya.patel@gmail.com
 
-
+"""
 
 Proposed Design
 
@@ -20,7 +20,7 @@ Proposed Design
 7.	Simple UI of Flask is provided for Tests and admin.
 
 Note: Primary focus is Security and System Design. UI can be easily modelled according to exceptions for error handling (Like incorrect date format, blank password etc.) It can throw error but backend is secured to not let it Pass.
-
+"""
 
 Test Cases
 
