@@ -7,7 +7,7 @@
 ```
 docker image build -t gst-flask-app .
 
-docker run -p 2000:3000 -d gst-flask-app
+docker run -p 2000:5000 -d gst-flask-app
 ```
 
 ```
