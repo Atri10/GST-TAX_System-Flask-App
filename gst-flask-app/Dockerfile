@@ -5,5 +5,5 @@ WORKDIR /gst-flask-app
 ADD . /gst-flask-app
 RUN apk add build-base
 RUN pip install -r requirements.txt
-EXPOSE 3000
+EXPOSE 5000
 CMD ["python","run.py"]
